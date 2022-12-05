@@ -1,2 +1,5 @@
 [user]
-	email = olubisikafayat@gmail.com
+	email = kafayatlawal@github.com
+	name = kafayatlawal
+[push]
+	default = current

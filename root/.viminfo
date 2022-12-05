@@ -12,9 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1669931013,,"wq"
+|2,0,1670034375,,"wq"
+:q
+|2,0,1669986759,,"q"
 
 # Search String History (newest to oldest):
+?/bin/bashi#!/bin/bashi#!/bin/bashi
+|2,1,1669992931,47,"bin/bashi#!/bin/bashi#!/bin/bashi"
 
 # Expression History (newest to oldest):
 
@@ -23,116 +27,337 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	BLOCK	0
+	
+|3,1,36,2,1,0,1670028419,""
 
 # File marks:
-'0  2  1  /1-listit
-|4,48,2,1,1669931013,"/1-listit"
-'1  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,49,2,2,1669921422,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'2  2  4  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,50,2,4,1669918905,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'3  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,51,2,2,1669918657,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'4  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,52,2,2,1669918657,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'5  2  2  /0-current_working_directory
-|4,53,2,2,1669894695,"/0-current_working_directory"
+'0  2  25  /alx-zero_day/bash/alx
+|4,48,2,25,1670034375,"/alx-zero_day/bash/alx"
+'1  3  0  /alx-zero_day/bash/echo
+|4,49,3,0,1670033478,"/alx-zero_day/bash/echo"
+'2  3  0  /alx-zero_day/alx
+|4,50,3,0,1670033305,"/alx-zero_day/alx"
+'3  2  8  /alx-zero_day/echo
+|4,51,2,8,1670032894,"/alx-zero_day/echo"
+'4  2  9  /alx-zero_day/echo
+|4,52,2,9,1670032535,"/alx-zero_day/echo"
+'5  2  12  ~/bash/school
+|4,53,2,12,1670028643,"~/bash/school"
+'6  2  9  ~/bash/alx
+|4,54,2,9,1670028471,"~/bash/alx"
+'7  2  1  /alx-system_engineering-devops/0x00-shell_basics/1-listit
+|4,55,2,1,1670017745,"/alx-system_engineering-devops/0x00-shell_basics/1-listit"
+'8  3  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,56,3,0,1670016296,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+'9  3  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+|4,57,3,0,1670014379,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
 
 # Jumplist (newest first):
--'  2  1  /1-listit
-|4,39,2,1,1669931013,"/1-listit"
--'  1  0  /1-listit
-|4,39,1,0,1669930803,"/1-listit"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1669921422,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1669921422,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1669921395,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1669921395,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  4  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,4,1669918905,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  4  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,4,1669918905,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1669918657,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1669918657,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1669918572,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1669918572,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1669918572,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1669918572,"/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  2  2  /0-current_working_directory
-|4,39,2,2,1669894695,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
--'  1  0  /0-current_working_directory
-|4,39,1,0,1669894531,"/0-current_working_directory"
+-'  2  25  /alx-zero_day/bash/alx
+|4,39,2,25,1670034375,"/alx-zero_day/bash/alx"
+-'  1  0  /alx-zero_day/bash/alx
+|4,39,1,0,1670034182,"/alx-zero_day/bash/alx"
+-'  3  0  /alx-zero_day/bash/echo
+|4,39,3,0,1670033478,"/alx-zero_day/bash/echo"
+-'  3  0  /alx-zero_day/bash/echo
+|4,39,3,0,1670033478,"/alx-zero_day/bash/echo"
+-'  1  0  /alx-zero_day/bash/echo
+|4,39,1,0,1670033362,"/alx-zero_day/bash/echo"
+-'  1  0  /alx-zero_day/bash/echo
+|4,39,1,0,1670033362,"/alx-zero_day/bash/echo"
+-'  3  0  /alx-zero_day/alx
+|4,39,3,0,1670033305,"/alx-zero_day/alx"
+-'  3  0  /alx-zero_day/alx
+|4,39,3,0,1670033305,"/alx-zero_day/alx"
+-'  3  0  /alx-zero_day/alx
+|4,39,3,0,1670033305,"/alx-zero_day/alx"
+-'  3  0  /alx-zero_day/alx
+|4,39,3,0,1670033305,"/alx-zero_day/alx"
+-'  1  0  /alx-zero_day/alx
+|4,39,1,0,1670033221,"/alx-zero_day/alx"
+-'  1  0  /alx-zero_day/alx
+|4,39,1,0,1670033221,"/alx-zero_day/alx"
+-'  1  0  /alx-zero_day/alx
+|4,39,1,0,1670033221,"/alx-zero_day/alx"
+-'  1  0  /alx-zero_day/alx
+|4,39,1,0,1670033221,"/alx-zero_day/alx"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  8  /alx-zero_day/echo
+|4,39,2,8,1670032894,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  2  9  /alx-zero_day/echo
+|4,39,2,9,1670032535,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  1  0  /alx-zero_day/echo
+|4,39,1,0,1670032423,"/alx-zero_day/echo"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1670028643,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1670028538,"~/bash/school"
 
 # History of marks within files (newest to oldest):
+
+> /alx-zero_day/bash/alx
+	*	1670034372	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> /alx-zero_day/bash/echo
+	*	1670033474	0
+	"	3	0
+	^	3	0
+	.	2	14
+	+	2	14
+
+> /alx-zero_day/alx
+	*	1670033300	0
+	"	3	0
+	^	3	0
+	.	2	10
+	+	2	10
+
+> /alx-zero_day/echo
+	*	1670032890	0
+	"	2	8
+	^	3	0
+	.	3	0
+	+	2	9
+	+	3	0
+
+> ~/bash/school
+	*	1670028638	0
+	"	2	12
+	^	2	13
+	.	2	0
+	+	2	0
+
+> ~/bash/alx
+	*	1670028467	0
+	"	2	9
+	^	2	10
+	.	2	0
+	+	1	11
+	+	2	0
+
+> /alx-system_engineering-devops/0x00-shell_basics/1-listit
+	*	1670017742	0
+	"	2	1
+	^	2	2
+	.	2	1
+	+	2	1
+
+> /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1670016291	0
+	"	3	0
+	^	3	0
+	.	2	3
+	+	2	4
+	+	2	2
+	+	2	3
+
+> /alx-system_engineering-devops/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1670007946	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> /alx-system_engineering-devops/0x00-shell_basics/0-current_working_director
+	*	1669992820	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> /alx-system_engineering-devops/0x00-shell_basics/0x00-shell_basics
+	*	1669992681	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> /0x00-shell_basics/0-current_working_directory
+	*	1669942319	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> /3-listfiles
+	*	1669938660	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
+
+> /2-bring_me_home
+	*	1669936276	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
 
 > /1-listit
 	*	1669931000	0
@@ -141,17 +366,12 @@
 	.	3	0
 	+	3	0
 
-> /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-	*	1669921419	0
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	4
-	+	2	2
-
 > /0-current_working_directory
 	*	1669894663	0
 	"	2	2
 	^	2	3
 	.	2	2
 	+	2	2
+
+> /alx-system_engineering-devops/0-iam_betty
+	"	1	0
