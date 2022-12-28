@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 'Ex\n' $DECIMAL
+printf '10\n' $DECIMAL
